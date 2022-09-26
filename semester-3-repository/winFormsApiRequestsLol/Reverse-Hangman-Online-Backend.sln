@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse-Hangman-Online-Backend", "Reverse-Hangman-Online-Backend\Reverse-Hangman-Online-Backend.csproj", "{911A03EA-0C5F-4CF7-80EE-369C7EEE797A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911A03EA-0C5F-4CF7-80EE-369C7EEE797A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911A03EA-0C5F-4CF7-80EE-369C7EEE797A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911A03EA-0C5F-4CF7-80EE-369C7EEE797A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911A03EA-0C5F-4CF7-80EE-369C7EEE797A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4EFC295-C695-4D3B-BC86-177E565E3290}
+	EndGlobalSection
+EndGlobal

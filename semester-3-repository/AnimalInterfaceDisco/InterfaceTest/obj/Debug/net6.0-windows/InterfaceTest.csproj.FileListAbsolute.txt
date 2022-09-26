@@ -1,0 +1,17 @@
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\bin\Debug\net6.0-windows\InterfaceTest.exe
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\bin\Debug\net6.0-windows\InterfaceTest.deps.json
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\bin\Debug\net6.0-windows\InterfaceTest.runtimeconfig.json
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\bin\Debug\net6.0-windows\InterfaceTest.dll
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\bin\Debug\net6.0-windows\InterfaceTest.pdb
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net6.0-windows\InterfaceTest.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net6.0-windows\InterfaceTest.Form1.resources
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net6.0-windows\InterfaceTest.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net6.0-windows\InterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net6.0-windows\InterfaceTest.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net6.0-windows\InterfaceTest.AssemblyInfo.cs
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net6.0-windows\InterfaceTest.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net6.0-windows\InterfaceTest.dll
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net6.0-windows\refint\InterfaceTest.dll
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net6.0-windows\InterfaceTest.pdb
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net6.0-windows\InterfaceTest.genruntimeconfig.cache
+C:\Users\kaan-\source\repos\InterfaceTest\InterfaceTest\obj\Debug\net6.0-windows\ref\InterfaceTest.dll

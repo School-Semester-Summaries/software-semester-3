@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingBot", "Spambot\CountingBot.csproj", "{EB709091-3900-40A2-BAFA-3AEA12D31471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB709091-3900-40A2-BAFA-3AEA12D31471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB709091-3900-40A2-BAFA-3AEA12D31471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB709091-3900-40A2-BAFA-3AEA12D31471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB709091-3900-40A2-BAFA-3AEA12D31471}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {094051BA-4F7C-4D50-BEFD-54660114616C}
+	EndGlobalSection
+EndGlobal

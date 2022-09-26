@@ -1,0 +1,28 @@
+C:\Users\kaan-\source\repos\C#\BrawlhallaBot v2.0\Spambot\bin\Debug\Spambot.exe.config
+C:\Users\kaan-\source\repos\C#\BrawlhallaBot v2.0\Spambot\bin\Debug\Spambot.exe
+C:\Users\kaan-\source\repos\C#\BrawlhallaBot v2.0\Spambot\bin\Debug\Spambot.pdb
+C:\Users\kaan-\source\repos\C#\BrawlhallaBot v2.0\Spambot\bin\Debug\WindowsInput.dll
+C:\Users\kaan-\source\repos\C#\BrawlhallaBot v2.0\Spambot\bin\Debug\WindowsInput.xml
+C:\Users\kaan-\source\repos\C#\BrawlhallaBot v2.0\Spambot\obj\Debug\CountingBot.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\C#\BrawlhallaBot v2.0\Spambot\obj\Debug\CountingBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaan-\source\repos\C#\BrawlhallaBot v2.0\Spambot\obj\Debug\Spambot.Form1.resources
+C:\Users\kaan-\source\repos\C#\BrawlhallaBot v2.0\Spambot\obj\Debug\Spambot.Properties.Resources.resources
+C:\Users\kaan-\source\repos\C#\BrawlhallaBot v2.0\Spambot\obj\Debug\CountingBot.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\C#\BrawlhallaBot v2.0\Spambot\obj\Debug\CountingBot.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\C#\BrawlhallaBot v2.0\Spambot\obj\Debug\CountingBot.csproj.CopyComplete
+C:\Users\kaan-\source\repos\C#\BrawlhallaBot v2.0\Spambot\obj\Debug\Spambot.exe
+C:\Users\kaan-\source\repos\C#\BrawlhallaBot v2.0\Spambot\obj\Debug\Spambot.pdb
+C:\Users\kaan-\source\repos\C#\Discord-Counting-Cheat\Spambot\bin\Debug\Spambot.exe.config
+C:\Users\kaan-\source\repos\C#\Discord-Counting-Cheat\Spambot\bin\Debug\Spambot.exe
+C:\Users\kaan-\source\repos\C#\Discord-Counting-Cheat\Spambot\bin\Debug\Spambot.pdb
+C:\Users\kaan-\source\repos\C#\Discord-Counting-Cheat\Spambot\bin\Debug\WindowsInput.dll
+C:\Users\kaan-\source\repos\C#\Discord-Counting-Cheat\Spambot\bin\Debug\WindowsInput.xml
+C:\Users\kaan-\source\repos\C#\Discord-Counting-Cheat\Spambot\obj\Debug\CountingBot.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\C#\Discord-Counting-Cheat\Spambot\obj\Debug\CountingBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaan-\source\repos\C#\Discord-Counting-Cheat\Spambot\obj\Debug\Spambot.Form1.resources
+C:\Users\kaan-\source\repos\C#\Discord-Counting-Cheat\Spambot\obj\Debug\Spambot.Properties.Resources.resources
+C:\Users\kaan-\source\repos\C#\Discord-Counting-Cheat\Spambot\obj\Debug\CountingBot.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\C#\Discord-Counting-Cheat\Spambot\obj\Debug\CountingBot.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\C#\Discord-Counting-Cheat\Spambot\obj\Debug\CountingBot.csproj.CopyComplete
+C:\Users\kaan-\source\repos\C#\Discord-Counting-Cheat\Spambot\obj\Debug\Spambot.exe
+C:\Users\kaan-\source\repos\C#\Discord-Counting-Cheat\Spambot\obj\Debug\Spambot.pdb

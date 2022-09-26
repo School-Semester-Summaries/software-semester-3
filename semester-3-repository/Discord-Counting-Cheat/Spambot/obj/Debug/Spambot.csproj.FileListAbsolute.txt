@@ -1,0 +1,27 @@
+C:\Users\kaan-\source\repos\Spambot\Spambot\bin\Debug\Spambot.exe.config
+C:\Users\kaan-\source\repos\Spambot\Spambot\bin\Debug\Spambot.exe
+C:\Users\kaan-\source\repos\Spambot\Spambot\bin\Debug\Spambot.pdb
+C:\Users\kaan-\source\repos\Spambot\Spambot\obj\Debug\Spambot.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\Spambot\Spambot\obj\Debug\Spambot.Form1.resources
+C:\Users\kaan-\source\repos\Spambot\Spambot\obj\Debug\Spambot.Properties.Resources.resources
+C:\Users\kaan-\source\repos\Spambot\Spambot\obj\Debug\Spambot.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\Spambot\Spambot\obj\Debug\Spambot.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\Spambot\Spambot\obj\Debug\Spambot.exe
+C:\Users\kaan-\source\repos\Spambot\Spambot\obj\Debug\Spambot.pdb
+C:\Users\kaan-\source\repos\Spambot\Spambot\bin\Debug\WindowsInput.dll
+C:\Users\kaan-\source\repos\Spambot\Spambot\bin\Debug\WindowsInput.xml
+C:\Users\kaan-\source\repos\Spambot\Spambot\obj\Debug\Spambot.csproj.CopyComplete
+C:\Users\kaan-\Downloads\OneDrive_2022-04-24\BrawlhallaBot v2.0\Spambot\bin\Debug\Spambot.exe.config
+C:\Users\kaan-\Downloads\OneDrive_2022-04-24\BrawlhallaBot v2.0\Spambot\bin\Debug\Spambot.exe
+C:\Users\kaan-\Downloads\OneDrive_2022-04-24\BrawlhallaBot v2.0\Spambot\bin\Debug\Spambot.pdb
+C:\Users\kaan-\Downloads\OneDrive_2022-04-24\BrawlhallaBot v2.0\Spambot\bin\Debug\WindowsInput.dll
+C:\Users\kaan-\Downloads\OneDrive_2022-04-24\BrawlhallaBot v2.0\Spambot\bin\Debug\WindowsInput.xml
+C:\Users\kaan-\Downloads\OneDrive_2022-04-24\BrawlhallaBot v2.0\Spambot\obj\Debug\Spambot.csproj.AssemblyReference.cache
+C:\Users\kaan-\Downloads\OneDrive_2022-04-24\BrawlhallaBot v2.0\Spambot\obj\Debug\Spambot.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaan-\Downloads\OneDrive_2022-04-24\BrawlhallaBot v2.0\Spambot\obj\Debug\Spambot.Form1.resources
+C:\Users\kaan-\Downloads\OneDrive_2022-04-24\BrawlhallaBot v2.0\Spambot\obj\Debug\Spambot.Properties.Resources.resources
+C:\Users\kaan-\Downloads\OneDrive_2022-04-24\BrawlhallaBot v2.0\Spambot\obj\Debug\Spambot.csproj.GenerateResource.cache
+C:\Users\kaan-\Downloads\OneDrive_2022-04-24\BrawlhallaBot v2.0\Spambot\obj\Debug\Spambot.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\Downloads\OneDrive_2022-04-24\BrawlhallaBot v2.0\Spambot\obj\Debug\Spambot.csproj.CopyComplete
+C:\Users\kaan-\Downloads\OneDrive_2022-04-24\BrawlhallaBot v2.0\Spambot\obj\Debug\Spambot.exe
+C:\Users\kaan-\Downloads\OneDrive_2022-04-24\BrawlhallaBot v2.0\Spambot\obj\Debug\Spambot.pdb

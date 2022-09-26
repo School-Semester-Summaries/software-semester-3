@@ -1,0 +1,17 @@
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\obj\Debug\net6.0-windows\AnimalInterfaceDisco.csproj.AssemblyReference.cache
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\obj\Debug\net6.0-windows\InterfaceTest.Form1.resources
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\obj\Debug\net6.0-windows\AnimalInterfaceDisco.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\obj\Debug\net6.0-windows\AnimalInterfaceDisco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\obj\Debug\net6.0-windows\AnimalInterfaceDisco.AssemblyInfoInputs.cache
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\obj\Debug\net6.0-windows\AnimalInterfaceDisco.AssemblyInfo.cs
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\obj\Debug\net6.0-windows\AnimalInterfaceDisco.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\bin\Debug\net6.0-windows\AnimalInterfaceDisco.exe
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\bin\Debug\net6.0-windows\AnimalInterfaceDisco.deps.json
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\bin\Debug\net6.0-windows\AnimalInterfaceDisco.runtimeconfig.json
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\bin\Debug\net6.0-windows\AnimalInterfaceDisco.dll
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\bin\Debug\net6.0-windows\AnimalInterfaceDisco.pdb
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\obj\Debug\net6.0-windows\AnimalInterfaceDisco.dll
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\obj\Debug\net6.0-windows\refint\AnimalInterfaceDisco.dll
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\obj\Debug\net6.0-windows\AnimalInterfaceDisco.pdb
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\obj\Debug\net6.0-windows\AnimalInterfaceDisco.genruntimeconfig.cache
+C:\Users\kaan-\source\repos\C#\AnimalInterfaceDisco\InterfaceTest\obj\Debug\net6.0-windows\ref\AnimalInterfaceDisco.dll
