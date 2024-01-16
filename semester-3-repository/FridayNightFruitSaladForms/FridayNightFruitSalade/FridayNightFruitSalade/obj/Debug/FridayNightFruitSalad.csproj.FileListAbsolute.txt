@@ -1,0 +1,10 @@
+C:\Users\kaan-\source\repos\FridayNightFruitSalade\FridayNightFruitSalade\bin\Debug\FridayNightFruitSalade.exe.config
+C:\Users\kaan-\source\repos\FridayNightFruitSalade\FridayNightFruitSalade\bin\Debug\FridayNightFruitSalade.exe
+C:\Users\kaan-\source\repos\FridayNightFruitSalade\FridayNightFruitSalade\bin\Debug\FridayNightFruitSalade.pdb
+C:\Users\kaan-\source\repos\FridayNightFruitSalade\FridayNightFruitSalade\obj\Debug\FridayNightFruitSalad.FRM_Game.resources
+C:\Users\kaan-\source\repos\FridayNightFruitSalade\FridayNightFruitSalade\obj\Debug\FridayNightFruitSalad.TestLevel.resources
+C:\Users\kaan-\source\repos\FridayNightFruitSalade\FridayNightFruitSalade\obj\Debug\FridayNightFruitSalade.Properties.Resources.resources
+C:\Users\kaan-\source\repos\FridayNightFruitSalade\FridayNightFruitSalade\obj\Debug\FridayNightFruitSalad.csproj.GenerateResource.cache
+C:\Users\kaan-\source\repos\FridayNightFruitSalade\FridayNightFruitSalade\obj\Debug\FridayNightFruitSalad.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\source\repos\FridayNightFruitSalade\FridayNightFruitSalade\obj\Debug\FridayNightFruitSalade.exe
+C:\Users\kaan-\source\repos\FridayNightFruitSalade\FridayNightFruitSalade\obj\Debug\FridayNightFruitSalade.pdb
