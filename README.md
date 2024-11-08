@@ -1552,7 +1552,7 @@ https://user-images.githubusercontent.com/74303221/174500941-de0e02e8-d26c-4c31-
 
 Every time I want to add a meme I have to edit the code, I tried to import Imgur in my python code, so that I only have to add a meme to Imgur and my application would automatically pull the image, but no success sadly. Bot was made to mock a discord server called Money Squadron. But the hype came to an end. Bot is still up though. For more information check out the documentation.
 
-[Money Squadron Virus Documentation](https://github.com/CrossyChainsaw/MoneySquadronVirus)
+[Money Squadron Virus Documentation](https://github.com/CrossyChainsaw2/MoneySquadronVirus)
 
 # Research
 
